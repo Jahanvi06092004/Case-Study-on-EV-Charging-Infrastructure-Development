@@ -41,7 +41,7 @@ Together, these solutions aim to transform EV adoption by combining technologica
 
 | File Name | Description |
 |-----------|-------------|
-| [TCE ACE Phase 1 - DANEJ Syndicate Report (PPTX)](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/TCE%20ACE%20Phase%201%20by%20DANEJ%20Syndicate.pptx) | Business + Technical presentation of the dual-solution strategy |
+| [TCE ACE Phase 1 - DANEJ Syndicate Report (PPTX)](https://github.com/Jahanvi06092004/Case-Study-on-EV-Charging-Infrastructure-Development/blob/main/TCE%20ACE%20Phase%201%20by%20DANEJ%20Syndicate.docx) | Business + Technical presentation of the dual-solution strategy |
 
 ---
 
