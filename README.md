@@ -2,13 +2,12 @@
 # 🔋 Smart EV Infrastructure Solutions — Scalable Strategy for the Future
 
 **Submitted by D.A.N.E.J. Syndicate | TCE ACE Challenge 2025**  
-_Use Case: Strategic Infrastructure Design & Innovation | Role Relevance: Business Analyst (McKinsey & Co.)_
 
 ---
 
 ## 💼 Executive Summary
 
-This project proposes a dual-technology strategy to address inefficiencies in India's EV charging infrastructure through:
+This project proposes a dual-technology strategy to address inefficiencies in EV charging infrastructure through:
 
 1. **Blockchain-Enabled Battery Swapping** – enabling secure, traceable, and automated EV battery transactions.
 2. **Kinetic Energy Harvesting** – creating decentralized clean energy points in high-traffic zones.
@@ -46,11 +45,6 @@ Together, these solutions aim to transform EV adoption by combining technologica
 
 ---
 
-## 🧠 Why It Matters to Business Consulting
-
-- Combines **market insights**, **technology mapping**, and **execution strategy** into one solution.
-- Aligns with **data-backed decision making**, **sustainability mandates**, and **cross-functional coordination**.
-- Demonstrates **problem structuring**, **innovation assessment**, and **go-to-market thinking** — key pillars in consulting.
 
 ---
 
@@ -64,14 +58,14 @@ Together, these solutions aim to transform EV adoption by combining technologica
 
 ---
 
-## 📚 Selected References
+## 📚 References Used
 
 - [Blockchain for Battery Lifecycle](https://www.mdpi.com/2079-8954/11/6/299)  
 - [Sun Mobility Technology](https://www.sunmobility.com/technology)  
 - [Pavegen – Kinetic Energy Solutions](https://www.pavegen.com/)  
 - [Piezoelectric Energy Harvester – Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/sstr.202100128)
 
----
 
-> 🧩 *This project was developed as an innovation pitch for the TCE ACE Challenge 2025. The solutions are concept-stage but business-ready, designed to meet the needs of future-forward clients in mobility and clean energy.*
+
+> 
 
